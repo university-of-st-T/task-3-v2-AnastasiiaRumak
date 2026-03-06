@@ -1,5 +1,5 @@
 import pytest
-
+from calculate_total import calculate_total
 # ---------- Тесты для calculate_total ----------
 def test_calculate_total_no_discounts_no_tax():
     prices = [100, 200, 300]
