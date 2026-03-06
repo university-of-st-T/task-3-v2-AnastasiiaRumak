@@ -1,5 +1,4 @@
 import pytest
-from your_solution_file import calculate_total  # замените your_solution_file на имя вашего файла
 
 # ---------- Тесты для calculate_total ----------
 def test_calculate_total_no_discounts_no_tax():
